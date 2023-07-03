@@ -1,0 +1,206 @@
+C:\Users\EmreUluer\Desktop\Esma Proje\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.exe.config
+C:\Users\EmreUluer\Desktop\Esma Proje\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.exe
+C:\Users\EmreUluer\Desktop\Esma Proje\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.pdb
+C:\Users\EmreUluer\Desktop\Esma Proje\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.AssemblyReference.cache
+C:\Users\EmreUluer\Desktop\Esma Proje\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmMenu.resources
+C:\Users\EmreUluer\Desktop\Esma Proje\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.Properties.Resources.resources
+C:\Users\EmreUluer\Desktop\Esma Proje\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.GenerateResource.cache
+C:\Users\EmreUluer\Desktop\Esma Proje\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.CoreCompileInputs.cache
+C:\Users\EmreUluer\Desktop\Esma Proje\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.exe
+C:\Users\EmreUluer\Desktop\Esma Proje\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.pdb
+C:\Users\EmreUluer\Desktop\Esma Proje\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmGiris.resources
+C:\Users\EmreUluer\Desktop\Esma Proje\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmHakkinda.resources
+C:\Users\EmreUluer\Desktop\Esma Proje\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmPersoneller.resources
+C:\Users\EmreUluer\Desktop\Esma Proje\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmArizaKodlari.resources
+C:\Users\EmreUluer\Desktop\Esma Proje\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmMakineler.resources
+C:\Users\EmreUluer\Desktop\Esma Proje\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmBolumler.resources
+C:\Users\EmreUluer\Desktop\Esma Proje\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmSifreDegisikligi.resources
+C:\Users\EmreUluer\Desktop\Esma Proje\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmKilitTarih.resources
+C:\Users\EmreUluer\Desktop\Esma Proje\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmOneriler.resources
+C:\Users\EmreUluer\Desktop\Esma Proje\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmDuyurular.resources
+C:\Users\EmreUluer\Desktop\Esma Proje\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmIsPlanlari.resources
+C:\Users\EmreUluer\Desktop\Esma Proje\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmPeriyodikBakim.resources
+C:\Users\EmreUluer\Desktop\Esma Proje\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmBakim.resources
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.exe.config
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.exe
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.pdb
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.AssemblyReference.cache
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmArizaKodlari.resources
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmBakim.resources
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmBolumler.resources
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmDuyurular.resources
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmGiris.resources
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmHakkinda.resources
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmIsPlanlari.resources
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmKilitTarih.resources
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmMakineler.resources
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmMenu.resources
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmOneriler.resources
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmPeriyodikBakim.resources
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmPersoneller.resources
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmSifreDegisikligi.resources
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.Properties.Resources.resources
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.GenerateResource.cache
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.CoreCompileInputs.cache
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.exe
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.pdb
+C:\Users\ESMANUR\Desktop\Yeni klasör\proje+sql\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.SuggestedBindingRedirects.cache
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.exe.config
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.exe
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.pdb
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.AssemblyReference.cache
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmArizaKodlari.resources
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmBakim.resources
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmBolumler.resources
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmDuyurular.resources
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmGiris.resources
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmHakkinda.resources
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmIsPlanlari.resources
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmKilitTarih.resources
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmMakineler.resources
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmMenu.resources
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmOneriler.resources
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmPeriyodikBakim.resources
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmPersoneller.resources
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmSifreDegisikligi.resources
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.Properties.Resources.resources
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.GenerateResource.cache
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.CoreCompileInputs.cache
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.exe
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.pdb
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor01.resources
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor02.resources
+C:\Users\ESMANUR\Desktop\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor03.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.exe.config
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.exe
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.pdb
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.AssemblyReference.cache
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmArizaKodlari.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmBakim.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmBolumler.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmDuyurular.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmGiris.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmHakkinda.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmIsPlanlari.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmKilitTarih.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmMakineler.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmMenu.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmOneriler.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmPeriyodikBakim.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmPersoneller.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor01.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor02.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor03.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor04.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor05.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor06.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor07.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmSifreDegisikligi.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.Properties.Resources.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.GenerateResource.cache
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.CoreCompileInputs.cache
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.exe
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\PART-2\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.pdb
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.exe.config
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.exe
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.pdb
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.AssemblyReference.cache
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmArizaKodlari.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmBakim.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmBolumler.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmDuyurular.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmGiris.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmHakkinda.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmIsPlanlari.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmKilitTarih.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmMakineler.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmMenu.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmOneriler.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmPeriyodikBakim.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmPersoneller.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor01.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor02.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor03.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor04.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor05.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor06.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor07.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmSifreDegisikligi.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.Properties.Resources.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.GenerateResource.cache
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.CoreCompileInputs.cache
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.exe
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.pdb
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor08.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor09.resources
+C:\Users\ESMANUR\Desktop\PART-2-BakimTakipProgrami\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmPersonelGorevlendirme.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.exe.config
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.exe
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.pdb
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.AssemblyReference.cache
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmArizaKodlari.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmBakim.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmBolumler.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmDuyurular.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmGiris.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmHakkinda.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmIsPlanlari.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmKilitTarih.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmMakineler.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmMenu.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmOneriler.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmPeriyodikBakim.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmPersonelGorevlendirme.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmPersoneller.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor01.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor02.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor03.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor04.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor05.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor06.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor07.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor08.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor09.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmSifreDegisikligi.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.Properties.Resources.resources
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.GenerateResource.cache
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.CoreCompileInputs.cache
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.exe
+C:\Users\EmreUluer\Desktop\TOBB-MYO\2022-2023 Bahar\Sistem Analizi ve Tasarımı\essp\PART-2-FORM-9\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.pdb
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.exe.config
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.exe
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\bin\Debug\BakimTakipProgrami.pdb
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.AssemblyReference.cache
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmArizaKodlari.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmBakim.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmBolumler.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmDuyurular.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmGiris.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmHakkinda.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmIsPlanlari.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmKilitTarih.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmMakineler.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmMenu.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmOneriler.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmPeriyodikBakim.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmPersonelGorevlendirme.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmPersoneller.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor01.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor02.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor03.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor04.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor05.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor06.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor07.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor08.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor09.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmSifreDegisikligi.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.Properties.Resources.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.GenerateResource.cache
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.csproj.CoreCompileInputs.cache
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.exe
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.pdb
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor10.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmRapor11.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami._1frmPersonelMakine.resources
+C:\Users\ESMANUR\Desktop\bakım takip en son\BakimTakipProgrami\obj\Debug\BakimTakipProgrami.frmPersonelMakine2.resources
